@@ -1,2 +1,2 @@
 # gitdemo_v2
-This is github demo
+<b>This is github demo for class A <b>
